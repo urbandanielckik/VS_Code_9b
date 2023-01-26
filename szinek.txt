@@ -6,3 +6,4 @@ lila
 fekete
 sárga
 narancs
+fehér
