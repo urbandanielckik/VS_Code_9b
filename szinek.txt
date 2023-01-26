@@ -4,3 +4,4 @@ fekete
 zöld
 lila
 fekete
+sárga
